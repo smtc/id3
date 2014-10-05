@@ -1,3 +1,6 @@
+UPDATE: use https://github.com/mikkyang/id3-go instead, it can modify mp3 tags.
+
+
 id3
 ===
 
